@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+https://quan-nh.github.io/clojure-by-example/
 
 ## License
 
